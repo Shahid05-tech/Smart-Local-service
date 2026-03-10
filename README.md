@@ -60,7 +60,6 @@ Screenshots:
 
 ![complaint](https://github.com/user-attachments/assets/5070a061-605b-4053-8610-30df98d96a6b)
 
-![login](https://github.com/user-attachments/assets/40ea95df-06f1-49e9-b126-af710f9da476)
-
+![login](https://github.com/user-attachments/assets/e76b1bfd-bf55-45b8-bc0d-bdc6b36cc919)
 
 
