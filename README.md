@@ -43,8 +43,18 @@ LocalLink/
 
 
 ## 👤 Default Admin Credentials
-```
 Email: admin@example.com
 Password: admin123
 ```
+Screenshots:
+<img width="1348" height="630" alt="image" src="https://github.com/user-attachments/assets/ff9dca56-14a1-4d29-bcac-73db07454bf5" />
 
+<img width="1348" height="626" alt="image" src="https://github.com/user-attachments/assets/d1987558-a5c1-4356-8ae5-25c670714a26" />
+
+<img width="1345" height="623" alt="image" src="https://github.com/user-attachments/assets/544cf1d0-b208-497c-9002-7e6656daf765" />
+
+<img width="1349" height="631" alt="image" src="https://github.com/user-attachments/assets/95f93a09-d5f8-48f0-81c7-8dbd23610077" />
+
+<img width="1343" height="627" alt="image" src="https://github.com/user-attachments/assets/8808618d-941a-49f1-8225-1864619e6836" />
+
+---
